@@ -1,0 +1,26 @@
+[
+  {
+    "id": "planets-sun",
+    "latitude": 51.241613,
+    "longitude": 6.774301,
+    "distanceSteps": [
+        10
+    ]
+  },
+  {
+    "id": "planets-mercury",
+    "latitude": 51.243457,
+    "longitude": 6.772327,
+    "distanceSteps": [
+        10
+    ]
+  },
+  {
+    "id": "planets-venus",
+    "latitude": 51.252155,
+    "longitude": 6.772157,
+    "distanceSteps": [
+        10
+    ]
+  },
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": "dummy_001",
+    "title": "Dummy Title",
+    "description": "Dummy Description",
+    "poiIds": [
+        "planets-sun",
+        "planets-mercury",
+        "planets-venus",
+        "planets-earth"
+    ]
+  }
+]
