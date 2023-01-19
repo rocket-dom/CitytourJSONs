@@ -1,26 +1,34 @@
 [
   {
     "id": "planets-sun",
-    "latitude": 51.241613,
-    "longitude": 6.774301,
+    "latitude": 51.24356861,
+    "longitude": 6.78058152,
     "distanceSteps": [
         10
     ]
   },
   {
     "id": "planets-mercury",
-    "latitude": 51.243457,
-    "longitude": 6.772327,
+    "latitude": 51.24342841,
+    "longitude": 6.78007474,
     "distanceSteps": [
         10
     ]
   },
   {
     "id": "planets-venus",
-    "latitude": 51.252155,
-    "longitude": 6.772157,
+    "latitude": 51.24332840,
+    "longitude": 6.77982510,
     "distanceSteps": [
         10
     ]
   },
+  {
+    "id": "planets-earth",
+    "latitude": 51.24311629,
+    "longitude": 6.77918302,
+    "distanceSteps": [
+      10
+    ]
+  }
 ]
