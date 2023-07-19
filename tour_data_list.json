@@ -372,11 +372,13 @@
         "name": "Sonne",
         "longitude": 13.502827,
         "triggerDistance": 10,
-        "audios": {
-          "name": "Sonne",
-          "url": "https://github.com/rocket-dom/CitytourJSONs/blob/b6c912e870824353ee276c0a28dfe695d1d8657c/audios/demo_audio.m4a",
-          "duration": 37
-        }
+        "audios": [
+          {
+            "name": "Sonne",
+            "url": "https://github.com/rocket-dom/CitytourJSONs/blob/b6c912e870824353ee276c0a28dfe695d1d8657c/audios/demo_audio.m4a",
+            "duration": 37
+          }
+        ]
       },
       {
         "isStation": false,
