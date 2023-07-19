@@ -1,1 +1,2110 @@
-[{"id":"cycle_tour","title":"Cycle Tour","pointsOnMap":[{"isStation":true,"id":"001","latitude":51.609411999999999,"name":"Lernort 1 Start","longitude":13.542351999999999,"triggerDistance":10},{"isStation":false,"id":"002","latitude":51.609281000000003,"longitude":13.542911,"triggerDistance":10},{"isStation":false,"id":"003","latitude":51.609276000000001,"longitude":13.543011999999999,"triggerDistance":10},{"isStation":false,"id":"004","latitude":51.609223,"longitude":13.54331,"triggerDistance":10},{"isStation":true,"id":"006","latitude":51.609223999999998,"name":"51.609223,13.543310","longitude":13.543913999999999,"triggerDistance":10},{"isStation":false,"id":"007","latitude":51.609234999999998,"longitude":13.544573,"triggerDistance":10},{"isStation":false,"id":"008","latitude":51.609194000000002,"longitude":13.544681000000001,"triggerDistance":10},{"isStation":false,"id":"009","latitude":51.609119999999997,"longitude":13.544779999999999,"triggerDistance":10},{"isStation":false,"id":"010","latitude":51.609302,"longitude":13.545230999999999,"triggerDistance":10},{"isStation":true,"id":"012","latitude":51.609544,"name":"51.609302,13.545231","longitude":13.546169000000001,"triggerDistance":10},{"isStation":true,"id":"014","latitude":51.609411000000001,"name":"51.609544,13.546169","longitude":13.546203999999999,"triggerDistance":10},{"isStation":false,"id":"015","latitude":51.608756,"longitude":13.546260999999999,"triggerDistance":10},{"isStation":false,"id":"016","latitude":51.608466,"longitude":13.546379,"triggerDistance":10},{"isStation":false,"id":"017","latitude":51.607331000000002,"longitude":13.54767,"triggerDistance":10},{"isStation":true,"id":"019","latitude":51.601529999999997,"name":"51.607345,13.547700","longitude":13.546390000000001,"triggerDistance":10},{"isStation":false,"id":"020","latitude":51.600935,"longitude":13.546405999999999,"triggerDistance":10},{"isStation":true,"id":"022","latitude":51.599428000000003,"name":"51.600933,13.546357","longitude":13.546718,"triggerDistance":10},{"isStation":false,"id":"023","latitude":51.597116,"longitude":13.547568,"triggerDistance":10},{"isStation":true,"id":"025","latitude":51.596496000000002,"name":"51.597116,13.547568","longitude":13.547795000000001,"triggerDistance":10},{"isStation":false,"id":"026","latitude":51.595877999999999,"longitude":13.547637,"triggerDistance":10},{"isStation":false,"id":"027","latitude":51.594031999999999,"longitude":13.546022000000001,"triggerDistance":10},{"isStation":false,"id":"028","latitude":51.593549000000003,"longitude":13.545197999999999,"triggerDistance":10},{"isStation":true,"id":"030","latitude":51.593038999999997,"name":"51.593549,13.545198","longitude":13.543379,"triggerDistance":10},{"isStation":true,"id":"032","latitude":51.592393999999999,"name":"51.593039,13.543379","longitude":13.54142,"triggerDistance":10},{"isStation":true,"id":"034","latitude":51.591710999999997,"name":"51.592349,13.541465","longitude":13.539666,"triggerDistance":10},{"isStation":true,"id":"036","latitude":51.591433000000002,"name":"51.591736,13.539641","longitude":13.538952999999999,"triggerDistance":10},{"isStation":true,"id":"038","latitude":51.590958999999998,"name":"51.591389,13.538997","longitude":13.537737,"triggerDistance":10},{"isStation":true,"id":"040","latitude":51.589936000000002,"name":"51.590959,13.537737","longitude":13.535328,"triggerDistance":10},{"isStation":false,"id":"041","latitude":51.58981,"longitude":13.534941999999999,"triggerDistance":10},{"isStation":false,"id":"042","latitude":51.589804000000001,"longitude":13.534621,"triggerDistance":10},{"isStation":true,"id":"044","latitude":51.590680999999996,"name":"51.589804,13.534621","longitude":13.533628999999999,"triggerDistance":10},{"isStation":false,"id":"045","latitude":51.591330999999997,"longitude":13.531952,"triggerDistance":10},{"isStation":false,"id":"046","latitude":51.591408999999999,"longitude":13.531632,"triggerDistance":10},{"isStation":true,"id":"048","latitude":51.591303000000003,"name":"51.591409,13.531632","longitude":13.531546000000001,"triggerDistance":10},{"isStation":false,"id":"049","latitude":51.591236000000002,"longitude":13.531364,"triggerDistance":10},{"isStation":false,"id":"050","latitude":51.588909999999998,"longitude":13.522539,"triggerDistance":10},{"isStation":true,"id":"052","latitude":51.587764,"name":"Lernort 2","longitude":13.518160999999999,"triggerDistance":10},{"isStation":true,"id":"054","latitude":51.587375999999999,"name":"51.587764,13.518161","longitude":13.516685000000001,"triggerDistance":10},{"isStation":false,"id":"055","latitude":51.583885000000002,"longitude":13.516309,"triggerDistance":10},{"isStation":true,"id":"057","latitude":51.581721999999999,"name":"51.583885,13.516309","longitude":13.513228,"triggerDistance":10},{"isStation":true,"id":"059","latitude":51.576577,"name":"51.581722,13.513228","longitude":13.505948999999999,"triggerDistance":10},{"isStation":false,"id":"060","latitude":51.576343999999999,"longitude":13.504968,"triggerDistance":10},{"isStation":false,"id":"061","latitude":51.576160000000002,"longitude":13.50456,"triggerDistance":10},{"isStation":true,"id":"063","latitude":51.576045000000001,"name":"Lernort","longitude":13.502827,"triggerDistance":10},{"isStation":false,"id":"064","latitude":51.576127999999997,"longitude":13.498872,"triggerDistance":10},{"isStation":false,"id":"065","latitude":51.575277999999997,"longitude":13.497614,"triggerDistance":10},{"isStation":false,"id":"066","latitude":51.574916999999999,"longitude":13.496817999999999,"triggerDistance":10},{"isStation":false,"id":"067","latitude":51.574888000000001,"longitude":13.496566,"triggerDistance":10},{"isStation":false,"id":"068","latitude":51.575609,"longitude":13.494937999999999,"triggerDistance":10},{"isStation":false,"id":"069","latitude":51.575685,"longitude":13.494448,"triggerDistance":10},{"isStation":true,"id":"071","latitude":51.570843000000004,"name":"51.575685,13.494448","longitude":13.495202000000001,"triggerDistance":10},{"isStation":true,"id":"073","latitude":51.568148000000001,"name":"Lernort 3","longitude":13.490288,"triggerDistance":10},{"isStation":false,"id":"074","latitude":51.564,"longitude":13.484472,"triggerDistance":10},{"isStation":true,"id":"076","latitude":51.562465000000003,"name":"51.564000,13.484472","longitude":13.482317,"triggerDistance":10},{"isStation":false,"id":"077","latitude":51.562278999999997,"longitude":13.482081000000001,"triggerDistance":10},{"isStation":false,"id":"078","latitude":51.562201999999999,"longitude":13.481833,"triggerDistance":10},{"isStation":false,"id":"079","latitude":51.561872000000001,"longitude":13.481845,"triggerDistance":10},{"isStation":true,"id":"081","latitude":51.561267999999998,"name":"Lernort 4 nur Messpunkt","longitude":13.481991000000001,"triggerDistance":10},{"isStation":false,"id":"082","latitude":51.560913999999997,"longitude":13.482329999999999,"triggerDistance":10},{"isStation":true,"id":"084","latitude":51.560690999999998,"name":"ß","longitude":13.482543,"triggerDistance":10},{"isStation":true,"id":"086","latitude":51.560478000000003,"name":"51.560691,13.482543","longitude":13.482869000000001,"triggerDistance":10},{"isStation":false,"id":"087","latitude":51.560341000000001,"longitude":13.483309,"triggerDistance":10},{"isStation":false,"id":"088","latitude":51.560217999999999,"longitude":13.483587999999999,"triggerDistance":10},{"isStation":false,"id":"089","latitude":51.560020999999999,"longitude":13.483974,"triggerDistance":10},{"isStation":false,"id":"090","latitude":51.559983000000003,"longitude":13.484187,"triggerDistance":10},{"isStation":true,"id":"092","latitude":51.559958000000002,"name":"51.559983,13.484187","longitude":13.484318999999999,"triggerDistance":10},{"isStation":false,"id":"093","latitude":51.559936999999998,"longitude":13.484097999999999,"triggerDistance":10},{"isStation":false,"id":"094","latitude":51.559660999999998,"longitude":13.483363000000001,"triggerDistance":10},{"isStation":false,"id":"095","latitude":51.555667999999997,"longitude":13.472988000000001,"triggerDistance":10},{"isStation":true,"id":"097","latitude":51.555287999999997,"name":"51.555668,13.472988","longitude":13.472495,"triggerDistance":10},{"isStation":false,"id":"098","latitude":51.554929000000001,"longitude":13.472200000000001,"triggerDistance":10},{"isStation":false,"id":"099","latitude":51.554600999999998,"longitude":13.472146,"triggerDistance":10},{"isStation":false,"id":"100","latitude":51.554304000000002,"longitude":13.472162000000001,"triggerDistance":10},{"isStation":false,"id":"101","latitude":51.554203999999999,"longitude":13.472173,"triggerDistance":10},{"isStation":false,"id":"102","latitude":51.554112000000003,"longitude":13.472079000000001,"triggerDistance":10},{"isStation":false,"id":"103","latitude":51.553199999999997,"longitude":13.470435,"triggerDistance":10},{"isStation":false,"id":"104","latitude":51.552691000000003,"longitude":13.4694,"triggerDistance":10},{"isStation":false,"id":"105","latitude":51.552208999999998,"longitude":13.468627,"triggerDistance":10},{"isStation":false,"id":"106","latitude":51.551381999999997,"longitude":13.467186,"triggerDistance":10},{"isStation":true,"id":"108","latitude":51.551445999999999,"name":"51.551382,13.467186","longitude":13.467244000000001,"triggerDistance":10},{"isStation":false,"id":"109","latitude":51.551389,"longitude":13.46698,"triggerDistance":10},{"isStation":false,"id":"110","latitude":51.551431000000001,"longitude":13.466844999999999,"triggerDistance":10},{"isStation":false,"id":"111","latitude":51.552328000000003,"longitude":13.465627,"triggerDistance":10},{"isStation":false,"id":"112","latitude":51.552419999999998,"longitude":13.465439999999999,"triggerDistance":10},{"isStation":false,"id":"113","latitude":51.552436,"longitude":13.465349,"triggerDistance":10},{"isStation":false,"id":"114","latitude":51.552425999999997,"longitude":13.465252,"triggerDistance":10},{"isStation":true,"id":"116","latitude":51.551405000000003,"name":"51.552426,13.465252","longitude":13.463402,"triggerDistance":10},{"isStation":false,"id":"117","latitude":51.550821999999997,"longitude":13.462774,"triggerDistance":10},{"isStation":false,"id":"118","latitude":51.550305000000002,"longitude":13.462372,"triggerDistance":10},{"isStation":false,"id":"119","latitude":51.549774999999997,"longitude":13.461776,"triggerDistance":10},{"isStation":false,"id":"120","latitude":51.54956,"longitude":13.461368999999999,"triggerDistance":10},{"isStation":false,"id":"121","latitude":51.549121,"longitude":13.459866999999999,"triggerDistance":10},{"isStation":false,"id":"122","latitude":51.548654999999997,"longitude":13.458539,"triggerDistance":10},{"isStation":false,"id":"123","latitude":51.548084000000003,"longitude":13.457407999999999,"triggerDistance":10},{"isStation":false,"id":"124","latitude":51.546815000000002,"longitude":13.455952,"triggerDistance":10},{"isStation":false,"id":"125","latitude":51.545321999999999,"longitude":13.453492000000001,"triggerDistance":10},{"isStation":false,"id":"126","latitude":51.544806999999999,"longitude":13.452786,"triggerDistance":10},{"isStation":false,"id":"127","latitude":51.543819999999997,"longitude":13.451449999999999,"triggerDistance":10},{"isStation":false,"id":"128","latitude":51.543703000000001,"longitude":13.451273,"triggerDistance":10},{"isStation":false,"id":"129","latitude":51.542579000000003,"longitude":13.449583000000001,"triggerDistance":10},{"isStation":false,"id":"130","latitude":51.542338000000001,"longitude":13.449229000000001,"triggerDistance":10},{"isStation":false,"id":"131","latitude":51.542101000000002,"longitude":13.448971999999999,"triggerDistance":10},{"isStation":true,"id":"133","latitude":51.542000999999999,"name":"51.542101,13.448972","longitude":13.448938999999999,"triggerDistance":10},{"isStation":false,"id":"134","latitude":51.541927999999999,"longitude":13.448708999999999,"triggerDistance":10},{"isStation":false,"id":"135","latitude":51.541758000000002,"longitude":13.448473,"triggerDistance":10},{"isStation":false,"id":"136","latitude":51.541804999999997,"longitude":13.448392,"triggerDistance":10},{"isStation":true,"id":"138","latitude":51.542758999999997,"name":"51.541804,13.448392","longitude":13.446837,"triggerDistance":10},{"isStation":true,"id":"140","latitude":51.544077999999999,"name":"51.542759,13.446836","longitude":13.444618,"triggerDistance":10},{"isStation":false,"id":"141","latitude":51.544915000000003,"longitude":13.444292000000001,"triggerDistance":10},{"isStation":false,"id":"142","latitude":51.545054,"longitude":13.444144,"triggerDistance":10},{"isStation":false,"id":"143","latitude":51.545180999999999,"longitude":13.443878,"triggerDistance":10},{"isStation":true,"id":"145","latitude":51.545226,"name":"Lernort","longitude":13.443704,"triggerDistance":10},{"isStation":false,"id":"146","latitude":51.545332999999999,"longitude":13.443776,"triggerDistance":10},{"isStation":false,"id":"147","latitude":51.545251,"longitude":13.444012000000001,"triggerDistance":10},{"isStation":true,"id":"149","latitude":51.545358999999998,"name":"Lernort 5","longitude":13.443822000000001,"triggerDistance":10},{"isStation":false,"id":"150","latitude":51.545219000000003,"longitude":13.443674,"triggerDistance":10},{"isStation":false,"id":"151","latitude":51.545220999999998,"longitude":13.443553,"triggerDistance":10},{"isStation":false,"id":"152","latitude":51.545217999999998,"longitude":13.443296,"triggerDistance":10},{"isStation":false,"id":"153","latitude":51.544896999999999,"longitude":13.440701000000001,"triggerDistance":10},{"isStation":false,"id":"154","latitude":51.544867000000004,"longitude":13.440262000000001,"triggerDistance":10},{"isStation":false,"id":"155","latitude":51.544899999999998,"longitude":13.439705,"triggerDistance":10},{"isStation":false,"id":"156","latitude":51.545695000000002,"longitude":13.435442,"triggerDistance":10},{"isStation":true,"id":"158","latitude":51.544307000000003,"name":"51.545695,13.435442","longitude":13.433545000000001,"triggerDistance":10},{"isStation":false,"id":"159","latitude":51.543882000000004,"longitude":13.433465,"triggerDistance":10},{"isStation":false,"id":"160","latitude":51.541812999999998,"longitude":13.433749000000001,"triggerDistance":10},{"isStation":true,"id":"162","latitude":51.541761999999999,"name":"51.541813,13.433749","longitude":13.433396,"triggerDistance":10},{"isStation":false,"id":"163","latitude":51.541938999999999,"longitude":13.432008,"triggerDistance":10},{"isStation":false,"id":"164","latitude":51.541550999999998,"longitude":13.428898,"triggerDistance":10},{"isStation":false,"id":"165","latitude":51.541311,"longitude":13.426183999999999,"triggerDistance":10},{"isStation":false,"id":"166","latitude":51.541283999999997,"longitude":13.426226,"triggerDistance":10},{"isStation":false,"id":"167","latitude":51.541232000000001,"longitude":13.426244000000001,"triggerDistance":10},{"isStation":true,"id":"169","latitude":51.540934999999998,"name":"51.541232,13.426244","longitude":13.426269,"triggerDistance":10},{"isStation":false,"id":"170","latitude":51.540337000000001,"longitude":13.426339,"triggerDistance":10},{"isStation":false,"id":"171","latitude":51.540107999999996,"longitude":13.426332,"triggerDistance":10},{"isStation":false,"id":"172","latitude":51.540063000000004,"longitude":13.426221,"triggerDistance":10},{"isStation":false,"id":"173","latitude":51.540028999999997,"longitude":13.425392,"triggerDistance":10},{"isStation":false,"id":"174","latitude":51.540041000000002,"longitude":13.425091999999999,"triggerDistance":10},{"isStation":false,"id":"175","latitude":51.540154999999999,"longitude":13.424519,"triggerDistance":10},{"isStation":false,"id":"176","latitude":51.540115,"longitude":13.424483,"triggerDistance":10},{"isStation":false,"id":"177","latitude":51.540044999999999,"longitude":13.424512,"triggerDistance":10},{"isStation":false,"id":"178","latitude":51.539999999999999,"longitude":13.424538,"triggerDistance":10},{"isStation":false,"id":"179","latitude":51.540002999999999,"longitude":13.424661,"triggerDistance":10},{"isStation":true,"id":"181","latitude":51.540044999999999,"name":"Lernort 6","longitude":13.424512,"triggerDistance":10},{"isStation":false,"id":"182","latitude":51.540092999999999,"longitude":13.424464,"triggerDistance":10},{"isStation":false,"id":"183","latitude":51.540154999999999,"longitude":13.424519,"triggerDistance":10},{"isStation":false,"id":"184","latitude":51.540059999999997,"longitude":13.424998,"triggerDistance":10},{"isStation":false,"id":"185","latitude":51.540028999999997,"longitude":13.425392,"triggerDistance":10},{"isStation":false,"id":"186","latitude":51.540042999999997,"longitude":13.425891,"triggerDistance":10},{"isStation":false,"id":"187","latitude":51.540059999999997,"longitude":13.426157,"triggerDistance":10},{"isStation":false,"id":"188","latitude":51.540101,"longitude":13.426385,"triggerDistance":10},{"isStation":true,"id":"190","latitude":51.540177999999997,"name":"51.540101,13.426385","longitude":13.426344,"triggerDistance":10},{"isStation":false,"id":"191","latitude":51.541308999999998,"longitude":13.426232000000001,"triggerDistance":10},{"isStation":false,"id":"192","latitude":51.541255,"longitude":13.425419,"triggerDistance":10},{"isStation":true,"id":"194","latitude":51.541029000000002,"name":"51.541255,13.425419","longitude":13.420916999999999,"triggerDistance":10},{"isStation":true,"id":"196","latitude":51.541043999999999,"name":"51.541077,13.420916","longitude":13.420242,"triggerDistance":10},{"isStation":false,"id":"197","latitude":51.541232000000001,"longitude":13.418333000000001,"triggerDistance":10},{"isStation":false,"id":"198","latitude":51.541243000000001,"longitude":13.418037999999999,"triggerDistance":10},{"isStation":true,"id":"200","latitude":51.541418999999998,"name":"51.541243,13.418038","longitude":13.416292,"triggerDistance":10},{"isStation":false,"id":"201","latitude":51.541423000000002,"longitude":13.41582,"triggerDistance":10},{"isStation":false,"id":"202","latitude":51.541488000000001,"longitude":13.415511,"triggerDistance":10},{"isStation":false,"id":"203","latitude":51.541590999999997,"longitude":13.415259000000001,"triggerDistance":10},{"isStation":true,"id":"205","latitude":51.543053999999998,"name":"51.541591,13.415259","longitude":13.417736,"triggerDistance":10},{"isStation":true,"id":"207","latitude":51.544569000000003,"name":"51.542999,13.417826","longitude":13.420151000000001,"triggerDistance":10},{"isStation":true,"id":"209","latitude":51.544947999999998,"name":"51.544574,13.420143","longitude":13.420623000000001,"triggerDistance":10},{"isStation":true,"id":"211","latitude":51.545780000000001,"name":"51.544948,13.420623","longitude":13.419193,"triggerDistance":10},{"isStation":false,"id":"212","latitude":51.545757999999999,"longitude":13.419093,"triggerDistance":10},{"isStation":true,"id":"214","latitude":51.545008000000003,"name":"51.545758,13.419093","longitude":13.410380999999999,"triggerDistance":10},{"isStation":true,"id":"216","latitude":51.543599,"name":"51.545008,13.410381","longitude":13.408920999999999,"triggerDistance":10},{"isStation":false,"id":"217","latitude":51.542008000000003,"longitude":13.407062,"triggerDistance":10},{"isStation":false,"id":"218","latitude":51.541147000000002,"longitude":13.406276,"triggerDistance":10},{"isStation":true,"id":"220","latitude":51.541040000000002,"name":"51.541147,13.406277","longitude":13.406243,"triggerDistance":10},{"isStation":false,"id":"221","latitude":51.541274000000001,"longitude":13.404543,"triggerDistance":10},{"isStation":true,"id":"223","latitude":51.541279000000003,"name":"51.541274,13.404543","longitude":13.404505,"triggerDistance":10},{"isStation":false,"id":"224","latitude":51.540255999999999,"longitude":13.40376,"triggerDistance":10},{"isStation":false,"id":"225","latitude":51.539721,"longitude":13.403499999999999,"triggerDistance":10},{"isStation":false,"id":"226","latitude":51.539648999999997,"longitude":13.403288,"triggerDistance":10},{"isStation":true,"id":"228","latitude":51.539565000000003,"name":"51.539649,13.403288","longitude":13.402562,"triggerDistance":10},{"isStation":true,"id":"230","latitude":51.539693999999997,"name":"Lernort 7","longitude":13.403460000000001,"triggerDistance":10},{"isStation":false,"id":"231","latitude":51.540143,"longitude":13.403684999999999,"triggerDistance":10},{"isStation":false,"id":"232","latitude":51.540419,"longitude":13.403900999999999,"triggerDistance":10},{"isStation":true,"id":"234","latitude":51.541279000000003,"name":"51.540419,13.403901","longitude":13.404505,"triggerDistance":10},{"isStation":false,"id":"235","latitude":51.541190999999998,"longitude":13.405103,"triggerDistance":10},{"isStation":true,"id":"237","latitude":51.541040000000002,"name":"51.541191,13.405103","longitude":13.406243,"triggerDistance":10},{"isStation":false,"id":"238","latitude":51.540734,"longitude":13.407273,"triggerDistance":10},{"isStation":true,"id":"240","latitude":51.540379000000001,"name":"51.540757,13.407290","longitude":13.40832,"triggerDistance":10},{"isStation":true,"id":"242","latitude":51.539169000000001,"name":"51.540386,13.408365","longitude":13.408905000000001,"triggerDistance":10},{"isStation":true,"id":"244","latitude":51.538862000000002,"name":"51.539169,13.408905","longitude":13.408835,"triggerDistance":10},{"isStation":false,"id":"245","latitude":51.538046000000001,"longitude":13.408970999999999,"triggerDistance":10},{"isStation":true,"id":"247","latitude":51.537039999999998,"name":"51.538048,13.409050","longitude":13.408744,"triggerDistance":10},{"isStation":false,"id":"248","latitude":51.536793000000003,"longitude":13.408727000000001,"triggerDistance":10},{"isStation":true,"id":"250","latitude":51.536642999999998,"name":"51.536793,13.408728","longitude":13.408792,"triggerDistance":10},{"isStation":true,"id":"252","latitude":51.536102,"name":"51.536643,13.408792","longitude":13.408127,"triggerDistance":10},{"isStation":false,"id":"253","latitude":51.535888999999997,"longitude":13.408427,"triggerDistance":10},{"isStation":false,"id":"254","latitude":51.535805000000003,"longitude":13.408576999999999,"triggerDistance":10},{"isStation":false,"id":"255","latitude":51.535801999999997,"longitude":13.408754999999999,"triggerDistance":10},{"isStation":false,"id":"256","latitude":51.535845000000002,"longitude":13.408942,"triggerDistance":10},{"isStation":false,"id":"257","latitude":51.536248999999998,"longitude":13.408942,"triggerDistance":10},{"isStation":false,"id":"258","latitude":51.536276000000001,"longitude":13.409071000000001,"triggerDistance":10},{"isStation":false,"id":"259","latitude":51.536413000000003,"longitude":13.409065999999999,"triggerDistance":10},{"isStation":false,"id":"260","latitude":51.536563000000001,"longitude":13.408942,"triggerDistance":10},{"isStation":false,"id":"261","latitude":51.536790000000003,"longitude":13.409269999999999,"triggerDistance":10},{"isStation":false,"id":"262","latitude":51.537173000000003,"longitude":13.409687999999999,"triggerDistance":10},{"isStation":false,"id":"263","latitude":51.537337999999998,"longitude":13.409917,"triggerDistance":10},{"isStation":true,"id":"265","latitude":51.537427000000001,"name":"51.537338,13.409917","longitude":13.4102,"triggerDistance":10},{"isStation":false,"id":"266","latitude":51.537557999999997,"longitude":13.412234,"triggerDistance":10},{"isStation":false,"id":"267","latitude":51.537492,"longitude":13.413575,"triggerDistance":10},{"isStation":true,"id":"269","latitude":51.537443000000003,"name":"51.537492,13.413575","longitude":13.41409,"triggerDistance":10},{"isStation":false,"id":"270","latitude":51.537547000000004,"longitude":13.414351,"triggerDistance":10},{"isStation":false,"id":"271","latitude":51.538435,"longitude":13.414605,"triggerDistance":10},{"isStation":true,"id":"273","latitude":51.537587000000002,"name":"Lernort 8","longitude":13.414388000000001,"triggerDistance":10},{"isStation":false,"id":"274","latitude":51.537443000000003,"longitude":13.41409,"triggerDistance":10},{"isStation":false,"id":"275","latitude":51.537382000000001,"longitude":13.414555,"triggerDistance":10},{"isStation":true,"id":"277","latitude":51.536225999999999,"name":"51.537382,13.414555","longitude":13.414832000000001,"triggerDistance":10},{"isStation":false,"id":"278","latitude":51.536152000000001,"longitude":13.414944999999999,"triggerDistance":10},{"isStation":false,"id":"279","latitude":51.536085999999997,"longitude":13.415111,"triggerDistance":10},{"isStation":false,"id":"280","latitude":51.536026999999997,"longitude":13.415571999999999,"triggerDistance":10},{"isStation":true,"id":"282","latitude":51.535991000000003,"name":"51.536027,13.415572","longitude":13.419387,"triggerDistance":10},{"isStation":false,"id":"283","latitude":51.536405999999999,"longitude":13.420959,"triggerDistance":10},{"isStation":true,"id":"285","latitude":51.536538999999998,"name":"51.536406,13.420958","longitude":13.421666999999999,"triggerDistance":10},{"isStation":true,"id":"287","latitude":51.538094000000001,"name":"51.536539,13.421667","longitude":13.427835999999999,"triggerDistance":10},{"isStation":true,"id":"289","latitude":51.538514999999997,"name":"51.538094,13.427836","longitude":13.429853,"triggerDistance":10},{"isStation":false,"id":"290","latitude":51.538642000000003,"longitude":13.430024,"triggerDistance":10},{"isStation":false,"id":"291","latitude":51.538801999999997,"longitude":13.430561000000001,"triggerDistance":10},{"isStation":false,"id":"292","latitude":51.538995,"longitude":13.431430000000001,"triggerDistance":10},{"isStation":false,"id":"293","latitude":51.539048999999999,"longitude":13.434219000000001,"triggerDistance":10},{"isStation":false,"id":"294","latitude":51.539048999999999,"longitude":13.439101000000001,"triggerDistance":10},{"isStation":false,"id":"295","latitude":51.539054999999998,"longitude":13.441397,"triggerDistance":10},{"isStation":false,"id":"296","latitude":51.539048999999999,"longitude":13.44233,"triggerDistance":10},{"isStation":true,"id":"298","latitude":51.539088999999997,"name":"51.539049,13.442330","longitude":13.446515,"triggerDistance":10},{"isStation":true,"id":"300","latitude":51.540396999999999,"name":"51.539089,13.446515","longitude":13.447094,"triggerDistance":10},{"isStation":false,"id":"301","latitude":51.54081,"longitude":13.447244,"triggerDistance":10},{"isStation":false,"id":"302","latitude":51.540996999999997,"longitude":13.447416,"triggerDistance":10},{"isStation":true,"id":"304","latitude":51.541144000000003,"name":"Lernort 4.2\/9","longitude":13.447695,"triggerDistance":10},{"isStation":false,"id":"305","latitude":51.541356999999998,"longitude":13.448027,"triggerDistance":10},{"isStation":false,"id":"306","latitude":51.541924999999999,"longitude":13.448886,"triggerDistance":10},{"isStation":false,"id":"307","latitude":51.541871,"longitude":13.449453999999999,"triggerDistance":10},{"isStation":false,"id":"308","latitude":51.541410999999997,"longitude":13.450517,"triggerDistance":10},{"isStation":false,"id":"309","latitude":51.541029999999999,"longitude":13.451482,"triggerDistance":10},{"isStation":false,"id":"310","latitude":51.540790000000001,"longitude":13.452211999999999,"triggerDistance":10},{"isStation":false,"id":"311","latitude":51.540523,"longitude":13.453348999999999,"triggerDistance":10},{"isStation":true,"id":"313","latitude":51.540063000000004,"name":"51.540523,13.453349","longitude":13.455355000000001,"triggerDistance":10},{"isStation":true,"id":"315","latitude":51.541820000000001,"name":"51.540063,13.455355","longitude":13.459784000000001,"triggerDistance":10},{"isStation":false,"id":"316","latitude":51.542076999999999,"longitude":13.460895000000001,"triggerDistance":10},{"isStation":true,"id":"318","latitude":51.542133,"name":"51.542077,13.460895","longitude":13.461567000000001,"triggerDistance":10},{"isStation":false,"id":"319","latitude":51.541887000000003,"longitude":13.465576,"triggerDistance":10},{"isStation":false,"id":"320","latitude":51.541916999999998,"longitude":13.467646,"triggerDistance":10},{"isStation":true,"id":"322","latitude":51.541964999999998,"name":"51.541824,13.467650","longitude":13.46988,"triggerDistance":10},{"isStation":true,"id":"324","latitude":51.542304999999999,"name":"51.541965,13.469880","longitude":13.472021,"triggerDistance":10},{"isStation":false,"id":"325","latitude":51.541455999999997,"longitude":13.476319999999999,"triggerDistance":10},{"isStation":false,"id":"326","latitude":51.541454000000002,"longitude":13.476483,"triggerDistance":10},{"isStation":false,"id":"327","latitude":51.541625000000003,"longitude":13.476601,"triggerDistance":10},{"isStation":true,"id":"329","latitude":51.542147999999997,"name":"51.541625,13.476601","longitude":13.476711,"triggerDistance":10},{"isStation":false,"id":"330","latitude":51.543443000000003,"longitude":13.476613,"triggerDistance":10},{"isStation":false,"id":"331","latitude":51.544406000000002,"longitude":13.477162999999999,"triggerDistance":10},{"isStation":false,"id":"332","latitude":51.545028000000002,"longitude":13.477925000000001,"triggerDistance":10},{"isStation":true,"id":"334","latitude":51.545223,"name":"51.545028,13.477925","longitude":13.478184000000001,"triggerDistance":10},{"isStation":false,"id":"335","latitude":51.545296,"longitude":13.478649000000001,"triggerDistance":10},{"isStation":false,"id":"336","latitude":51.545547999999997,"longitude":13.482927999999999,"triggerDistance":10},{"isStation":false,"id":"337","latitude":51.545673000000001,"longitude":13.483661,"triggerDistance":10},{"isStation":false,"id":"338","latitude":51.549582000000001,"longitude":13.492108,"triggerDistance":10},{"isStation":true,"id":"340","latitude":51.551074,"name":"51.549582,13.492108","longitude":13.500807999999999,"triggerDistance":10},{"isStation":false,"id":"341","latitude":51.555416999999998,"longitude":13.509293,"triggerDistance":10},{"isStation":true,"id":"343","latitude":51.560704000000001,"name":"51.555417,13.509293","longitude":13.520156999999999,"triggerDistance":10},{"isStation":false,"id":"344","latitude":51.561115000000001,"longitude":13.521039999999999,"triggerDistance":10},{"isStation":false,"id":"345","latitude":51.561174999999999,"longitude":13.521419,"triggerDistance":10},{"isStation":true,"id":"347","latitude":51.561225,"name":"51.561175,13.521419","longitude":13.521868,"triggerDistance":10},{"isStation":false,"id":"348","latitude":51.561290999999997,"longitude":13.521526,"triggerDistance":10},{"isStation":false,"id":"349","latitude":51.561453,"longitude":13.521274,"triggerDistance":10},{"isStation":false,"id":"350","latitude":51.563420000000001,"longitude":13.520809,"triggerDistance":10},{"isStation":false,"id":"351","latitude":51.567037999999997,"longitude":13.520981000000001,"triggerDistance":10},{"isStation":true,"id":"353","latitude":51.567224000000003,"name":"51.567038,13.520981","longitude":13.520871,"triggerDistance":10},{"isStation":false,"id":"354","latitude":51.567346999999998,"longitude":13.520432,"triggerDistance":10},{"isStation":false,"id":"355","latitude":51.567532999999997,"longitude":13.520182999999999,"triggerDistance":10},{"isStation":false,"id":"356","latitude":51.568108000000002,"longitude":13.520200000000001,"triggerDistance":10},{"isStation":false,"id":"357","latitude":51.568510000000003,"longitude":13.519867,"triggerDistance":10},{"isStation":false,"id":"358","latitude":51.572791000000002,"longitude":13.523543999999999,"triggerDistance":10},{"isStation":false,"id":"359","latitude":51.575789,"longitude":13.524699999999999,"triggerDistance":10},{"isStation":false,"id":"360","latitude":51.577033999999998,"longitude":13.525542,"triggerDistance":10},{"isStation":false,"id":"361","latitude":51.580052000000002,"longitude":13.529957,"triggerDistance":10},{"isStation":false,"id":"362","latitude":51.581110000000002,"longitude":13.531940000000001,"triggerDistance":10},{"isStation":false,"id":"363","latitude":51.581457999999998,"longitude":13.532422,"triggerDistance":10},{"isStation":true,"id":"364","latitude":51.589005999999998,"name":"51.589006,13.541273","longitude":13.541273,"triggerDistance":10}],"type":"Bike","description":"The cycle tour"}]
+[
+  {
+    "id": "cycle_tour",
+    "title": "Cycle Tour",
+    "pointsOnMap": [
+      {
+        "isStation": true,
+        "id": "001",
+        "latitude": 51.609411999999999,
+        "name": "Lernort 1 Start",
+        "longitude": 13.542351999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "002",
+        "latitude": 51.609281000000003,
+        "longitude": 13.542911,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "003",
+        "latitude": 51.609276000000001,
+        "longitude": 13.543011999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "004",
+        "latitude": 51.609223,
+        "longitude": 13.54331,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "006",
+        "latitude": 51.609223999999998,
+        "name": "51.609223,13.543310",
+        "longitude": 13.543913999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "007",
+        "latitude": 51.609234999999998,
+        "longitude": 13.544573,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "008",
+        "latitude": 51.609194000000002,
+        "longitude": 13.544681000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "009",
+        "latitude": 51.609119999999997,
+        "longitude": 13.544779999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "010",
+        "latitude": 51.609302,
+        "longitude": 13.545230999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "012",
+        "latitude": 51.609544,
+        "name": "51.609302,13.545231",
+        "longitude": 13.546169000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "014",
+        "latitude": 51.609411000000001,
+        "name": "51.609544,13.546169",
+        "longitude": 13.546203999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "015",
+        "latitude": 51.608756,
+        "longitude": 13.546260999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "016",
+        "latitude": 51.608466,
+        "longitude": 13.546379,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "017",
+        "latitude": 51.607331000000002,
+        "longitude": 13.54767,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "019",
+        "latitude": 51.601529999999997,
+        "name": "51.607345,13.547700",
+        "longitude": 13.546390000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "020",
+        "latitude": 51.600935,
+        "longitude": 13.546405999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "022",
+        "latitude": 51.599428000000003,
+        "name": "51.600933,13.546357",
+        "longitude": 13.546718,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "023",
+        "latitude": 51.597116,
+        "longitude": 13.547568,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "025",
+        "latitude": 51.596496000000002,
+        "name": "51.597116,13.547568",
+        "longitude": 13.547795000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "026",
+        "latitude": 51.595877999999999,
+        "longitude": 13.547637,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "027",
+        "latitude": 51.594031999999999,
+        "longitude": 13.546022000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "028",
+        "latitude": 51.593549000000003,
+        "longitude": 13.545197999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "030",
+        "latitude": 51.593038999999997,
+        "name": "51.593549,13.545198",
+        "longitude": 13.543379,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "032",
+        "latitude": 51.592393999999999,
+        "name": "51.593039,13.543379",
+        "longitude": 13.54142,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "034",
+        "latitude": 51.591710999999997,
+        "name": "51.592349,13.541465",
+        "longitude": 13.539666,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "036",
+        "latitude": 51.591433000000002,
+        "name": "51.591736,13.539641",
+        "longitude": 13.538952999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "038",
+        "latitude": 51.590958999999998,
+        "name": "51.591389,13.538997",
+        "longitude": 13.537737,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "040",
+        "latitude": 51.589936000000002,
+        "name": "51.590959,13.537737",
+        "longitude": 13.535328,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "041",
+        "latitude": 51.58981,
+        "longitude": 13.534941999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "042",
+        "latitude": 51.589804000000001,
+        "longitude": 13.534621,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "044",
+        "latitude": 51.590680999999996,
+        "name": "51.589804,13.534621",
+        "longitude": 13.533628999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "045",
+        "latitude": 51.591330999999997,
+        "longitude": 13.531952,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "046",
+        "latitude": 51.591408999999999,
+        "longitude": 13.531632,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "048",
+        "latitude": 51.591303000000003,
+        "name": "51.591409,13.531632",
+        "longitude": 13.531546000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "049",
+        "latitude": 51.591236000000002,
+        "longitude": 13.531364,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "050",
+        "latitude": 51.588909999999998,
+        "longitude": 13.522539,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": true,
+        "id": "052",
+        "latitude": 51.587764,
+        "name": "Lernort 2",
+        "longitude": 13.518160999999999,
+        "triggerDistance": 10,
+        "sideTripId": "visitingCenter"
+      },
+      {
+        "isStation": false,
+        "id": "052a",
+        "latitude": 51.597764,
+        "longitude": 13.508160999999999,
+        "triggerDistance": 10,
+        "sideTripId": "visitingCenter"
+      },
+      {
+        "isStation": false,
+        "id": "052b",
+        "latitude": 51.599164,
+        "longitude": 13.500160999999999,
+        "triggerDistance": 10,
+        "sideTripId": "visitingCenter"
+      },
+      {
+        "isStation": false,
+        "id": "052c",
+        "latitude": 51.598164,
+        "longitude": 13.499160999999999,
+        "triggerDistance": 10,
+        "sideTripId": "visitingCenter"
+      },
+      {
+        "isStation": true,
+        "id": "052d",
+        "latitude": 51.590164,
+        "name": "Bla bla",
+        "longitude": 13.490160999999999,
+        "triggerDistance": 10,
+        "sideTripId": "visitingCenter"
+      },
+      {
+        "isStation": false,
+        "id": "052e",
+        "latitude": 51.587764,
+        "longitude": 13.518160999999999,
+        "triggerDistance": 10,
+        "sideTripId": "visitingCenter"
+      },
+      {
+        "isStation": false,
+        "id": "054",
+        "latitude": 51.587375999999999,
+        "name": "51.587764,13.518161",
+        "longitude": 13.516685000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "055",
+        "latitude": 51.583885000000002,
+        "longitude": 13.516309,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "057",
+        "latitude": 51.581721999999999,
+        "name": "51.583885,13.516309",
+        "longitude": 13.513228,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "059",
+        "latitude": 51.576577,
+        "name": "51.581722,13.513228",
+        "longitude": 13.505948999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "060",
+        "latitude": 51.576343999999999,
+        "longitude": 13.504968,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "061",
+        "latitude": 51.576160000000002,
+        "longitude": 13.50456,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": true,
+        "id": "063",
+        "latitude": 51.576045000000001,
+        "name": "Lernort",
+        "longitude": 13.502827,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "064",
+        "latitude": 51.576127999999997,
+        "longitude": 13.498872,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "065",
+        "latitude": 51.575277999999997,
+        "longitude": 13.497614,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "066",
+        "latitude": 51.574916999999999,
+        "longitude": 13.496817999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "067",
+        "latitude": 51.574888000000001,
+        "longitude": 13.496566,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "068",
+        "latitude": 51.575609,
+        "longitude": 13.494937999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "069",
+        "latitude": 51.575685,
+        "longitude": 13.494448,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "071",
+        "latitude": 51.570843000000004,
+        "name": "51.575685,13.494448",
+        "longitude": 13.495202000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": true,
+        "id": "073",
+        "latitude": 51.568148000000001,
+        "name": "Lernort 3",
+        "longitude": 13.490288,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "074",
+        "latitude": 51.564,
+        "longitude": 13.484472,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "076",
+        "latitude": 51.562465000000003,
+        "name": "51.564000,13.484472",
+        "longitude": 13.482317,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "077",
+        "latitude": 51.562278999999997,
+        "longitude": 13.482081000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "078",
+        "latitude": 51.562201999999999,
+        "longitude": 13.481833,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "079",
+        "latitude": 51.561872000000001,
+        "longitude": 13.481845,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": true,
+        "id": "081",
+        "latitude": 51.561267999999998,
+        "name": "Lernort 4 nur Messpunkt",
+        "longitude": 13.481991000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "082",
+        "latitude": 51.560913999999997,
+        "longitude": 13.482329999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": true,
+        "id": "084",
+        "latitude": 51.560690999999998,
+        "name": "ß",
+        "longitude": 13.482543,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "086",
+        "latitude": 51.560478000000003,
+        "name": "51.560691,13.482543",
+        "longitude": 13.482869000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "087",
+        "latitude": 51.560341000000001,
+        "longitude": 13.483309,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "088",
+        "latitude": 51.560217999999999,
+        "longitude": 13.483587999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "089",
+        "latitude": 51.560020999999999,
+        "longitude": 13.483974,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "090",
+        "latitude": 51.559983000000003,
+        "longitude": 13.484187,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "092",
+        "latitude": 51.559958000000002,
+        "name": "51.559983,13.484187",
+        "longitude": 13.484318999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "093",
+        "latitude": 51.559936999999998,
+        "longitude": 13.484097999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "094",
+        "latitude": 51.559660999999998,
+        "longitude": 13.483363000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "095",
+        "latitude": 51.555667999999997,
+        "longitude": 13.472988000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "097",
+        "latitude": 51.555287999999997,
+        "name": "51.555668,13.472988",
+        "longitude": 13.472495,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "098",
+        "latitude": 51.554929000000001,
+        "longitude": 13.472200000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "099",
+        "latitude": 51.554600999999998,
+        "longitude": 13.472146,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "100",
+        "latitude": 51.554304000000002,
+        "longitude": 13.472162000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "101",
+        "latitude": 51.554203999999999,
+        "longitude": 13.472173,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "102",
+        "latitude": 51.554112000000003,
+        "longitude": 13.472079000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "103",
+        "latitude": 51.553199999999997,
+        "longitude": 13.470435,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "104",
+        "latitude": 51.552691000000003,
+        "longitude": 13.4694,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "105",
+        "latitude": 51.552208999999998,
+        "longitude": 13.468627,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "106",
+        "latitude": 51.551381999999997,
+        "longitude": 13.467186,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "108",
+        "latitude": 51.551445999999999,
+        "name": "51.551382,13.467186",
+        "longitude": 13.467244000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "109",
+        "latitude": 51.551389,
+        "longitude": 13.46698,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "110",
+        "latitude": 51.551431000000001,
+        "longitude": 13.466844999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "111",
+        "latitude": 51.552328000000003,
+        "longitude": 13.465627,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "112",
+        "latitude": 51.552419999999998,
+        "longitude": 13.465439999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "113",
+        "latitude": 51.552436,
+        "longitude": 13.465349,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "114",
+        "latitude": 51.552425999999997,
+        "longitude": 13.465252,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "116",
+        "latitude": 51.551405000000003,
+        "name": "51.552426,13.465252",
+        "longitude": 13.463402,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "117",
+        "latitude": 51.550821999999997,
+        "longitude": 13.462774,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "118",
+        "latitude": 51.550305000000002,
+        "longitude": 13.462372,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "119",
+        "latitude": 51.549774999999997,
+        "longitude": 13.461776,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "120",
+        "latitude": 51.54956,
+        "longitude": 13.461368999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "121",
+        "latitude": 51.549121,
+        "longitude": 13.459866999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "122",
+        "latitude": 51.548654999999997,
+        "longitude": 13.458539,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "123",
+        "latitude": 51.548084000000003,
+        "longitude": 13.457407999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "124",
+        "latitude": 51.546815000000002,
+        "longitude": 13.455952,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "125",
+        "latitude": 51.545321999999999,
+        "longitude": 13.453492000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "126",
+        "latitude": 51.544806999999999,
+        "longitude": 13.452786,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "127",
+        "latitude": 51.543819999999997,
+        "longitude": 13.451449999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "128",
+        "latitude": 51.543703000000001,
+        "longitude": 13.451273,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "129",
+        "latitude": 51.542579000000003,
+        "longitude": 13.449583000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "130",
+        "latitude": 51.542338000000001,
+        "longitude": 13.449229000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "131",
+        "latitude": 51.542101000000002,
+        "longitude": 13.448971999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "133",
+        "latitude": 51.542000999999999,
+        "name": "51.542101,13.448972",
+        "longitude": 13.448938999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "134",
+        "latitude": 51.541927999999999,
+        "longitude": 13.448708999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "135",
+        "latitude": 51.541758000000002,
+        "longitude": 13.448473,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "136",
+        "latitude": 51.541804999999997,
+        "longitude": 13.448392,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "138",
+        "latitude": 51.542758999999997,
+        "name": "51.541804,13.448392",
+        "longitude": 13.446837,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "140",
+        "latitude": 51.544077999999999,
+        "name": "51.542759,13.446836",
+        "longitude": 13.444618,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "141",
+        "latitude": 51.544915000000003,
+        "longitude": 13.444292000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "142",
+        "latitude": 51.545054,
+        "longitude": 13.444144,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "143",
+        "latitude": 51.545180999999999,
+        "longitude": 13.443878,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": true,
+        "id": "145",
+        "latitude": 51.545226,
+        "name": "Lernort",
+        "longitude": 13.443704,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "146",
+        "latitude": 51.545332999999999,
+        "longitude": 13.443776,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "147",
+        "latitude": 51.545251,
+        "longitude": 13.444012000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": true,
+        "id": "149",
+        "latitude": 51.545358999999998,
+        "name": "Lernort 5",
+        "longitude": 13.443822000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "150",
+        "latitude": 51.545219000000003,
+        "longitude": 13.443674,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "151",
+        "latitude": 51.545220999999998,
+        "longitude": 13.443553,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "152",
+        "latitude": 51.545217999999998,
+        "longitude": 13.443296,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "153",
+        "latitude": 51.544896999999999,
+        "longitude": 13.440701000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "154",
+        "latitude": 51.544867000000004,
+        "longitude": 13.440262000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "155",
+        "latitude": 51.544899999999998,
+        "longitude": 13.439705,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "156",
+        "latitude": 51.545695000000002,
+        "longitude": 13.435442,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "158",
+        "latitude": 51.544307000000003,
+        "name": "51.545695,13.435442",
+        "longitude": 13.433545000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "159",
+        "latitude": 51.543882000000004,
+        "longitude": 13.433465,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "160",
+        "latitude": 51.541812999999998,
+        "longitude": 13.433749000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "162",
+        "latitude": 51.541761999999999,
+        "name": "51.541813,13.433749",
+        "longitude": 13.433396,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "163",
+        "latitude": 51.541938999999999,
+        "longitude": 13.432008,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "164",
+        "latitude": 51.541550999999998,
+        "longitude": 13.428898,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "165",
+        "latitude": 51.541311,
+        "longitude": 13.426183999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "166",
+        "latitude": 51.541283999999997,
+        "longitude": 13.426226,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "167",
+        "latitude": 51.541232000000001,
+        "longitude": 13.426244000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "169",
+        "latitude": 51.540934999999998,
+        "name": "51.541232,13.426244",
+        "longitude": 13.426269,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "170",
+        "latitude": 51.540337000000001,
+        "longitude": 13.426339,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "171",
+        "latitude": 51.540107999999996,
+        "longitude": 13.426332,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "172",
+        "latitude": 51.540063000000004,
+        "longitude": 13.426221,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "173",
+        "latitude": 51.540028999999997,
+        "longitude": 13.425392,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "174",
+        "latitude": 51.540041000000002,
+        "longitude": 13.425091999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "175",
+        "latitude": 51.540154999999999,
+        "longitude": 13.424519,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "176",
+        "latitude": 51.540115,
+        "longitude": 13.424483,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "177",
+        "latitude": 51.540044999999999,
+        "longitude": 13.424512,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "178",
+        "latitude": 51.539999999999999,
+        "longitude": 13.424538,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "179",
+        "latitude": 51.540002999999999,
+        "longitude": 13.424661,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": true,
+        "id": "181",
+        "latitude": 51.540044999999999,
+        "name": "Lernort 6",
+        "longitude": 13.424512,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "182",
+        "latitude": 51.540092999999999,
+        "longitude": 13.424464,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "183",
+        "latitude": 51.540154999999999,
+        "longitude": 13.424519,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "184",
+        "latitude": 51.540059999999997,
+        "longitude": 13.424998,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "185",
+        "latitude": 51.540028999999997,
+        "longitude": 13.425392,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "186",
+        "latitude": 51.540042999999997,
+        "longitude": 13.425891,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "187",
+        "latitude": 51.540059999999997,
+        "longitude": 13.426157,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "188",
+        "latitude": 51.540101,
+        "longitude": 13.426385,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "190",
+        "latitude": 51.540177999999997,
+        "name": "51.540101,13.426385",
+        "longitude": 13.426344,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "191",
+        "latitude": 51.541308999999998,
+        "longitude": 13.426232000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "192",
+        "latitude": 51.541255,
+        "longitude": 13.425419,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "194",
+        "latitude": 51.541029000000002,
+        "name": "51.541255,13.425419",
+        "longitude": 13.420916999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "196",
+        "latitude": 51.541043999999999,
+        "name": "51.541077,13.420916",
+        "longitude": 13.420242,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "197",
+        "latitude": 51.541232000000001,
+        "longitude": 13.418333000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "198",
+        "latitude": 51.541243000000001,
+        "longitude": 13.418037999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "200",
+        "latitude": 51.541418999999998,
+        "name": "51.541243,13.418038",
+        "longitude": 13.416292,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "201",
+        "latitude": 51.541423000000002,
+        "longitude": 13.41582,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "202",
+        "latitude": 51.541488000000001,
+        "longitude": 13.415511,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "203",
+        "latitude": 51.541590999999997,
+        "longitude": 13.415259000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "205",
+        "latitude": 51.543053999999998,
+        "name": "51.541591,13.415259",
+        "longitude": 13.417736,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "207",
+        "latitude": 51.544569000000003,
+        "name": "51.542999,13.417826",
+        "longitude": 13.420151000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "209",
+        "latitude": 51.544947999999998,
+        "name": "51.544574,13.420143",
+        "longitude": 13.420623000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "211",
+        "latitude": 51.545780000000001,
+        "name": "51.544948,13.420623",
+        "longitude": 13.419193,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "212",
+        "latitude": 51.545757999999999,
+        "longitude": 13.419093,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "214",
+        "latitude": 51.545008000000003,
+        "name": "51.545758,13.419093",
+        "longitude": 13.410380999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "216",
+        "latitude": 51.543599,
+        "name": "51.545008,13.410381",
+        "longitude": 13.408920999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "217",
+        "latitude": 51.542008000000003,
+        "longitude": 13.407062,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "218",
+        "latitude": 51.541147000000002,
+        "longitude": 13.406276,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "220",
+        "latitude": 51.541040000000002,
+        "name": "51.541147,13.406277",
+        "longitude": 13.406243,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "221",
+        "latitude": 51.541274000000001,
+        "longitude": 13.404543,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "223",
+        "latitude": 51.541279000000003,
+        "name": "51.541274,13.404543",
+        "longitude": 13.404505,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "224",
+        "latitude": 51.540255999999999,
+        "longitude": 13.40376,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "225",
+        "latitude": 51.539721,
+        "longitude": 13.403499999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "226",
+        "latitude": 51.539648999999997,
+        "longitude": 13.403288,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "228",
+        "latitude": 51.539565000000003,
+        "name": "51.539649,13.403288",
+        "longitude": 13.402562,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": true,
+        "id": "230",
+        "latitude": 51.539693999999997,
+        "name": "Lernort 7",
+        "longitude": 13.403460000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "231",
+        "latitude": 51.540143,
+        "longitude": 13.403684999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "232",
+        "latitude": 51.540419,
+        "longitude": 13.403900999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "234",
+        "latitude": 51.541279000000003,
+        "name": "51.540419,13.403901",
+        "longitude": 13.404505,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "235",
+        "latitude": 51.541190999999998,
+        "longitude": 13.405103,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "237",
+        "latitude": 51.541040000000002,
+        "name": "51.541191,13.405103",
+        "longitude": 13.406243,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "238",
+        "latitude": 51.540734,
+        "longitude": 13.407273,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "240",
+        "latitude": 51.540379000000001,
+        "name": "51.540757,13.407290",
+        "longitude": 13.40832,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "242",
+        "latitude": 51.539169000000001,
+        "name": "51.540386,13.408365",
+        "longitude": 13.408905000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "244",
+        "latitude": 51.538862000000002,
+        "name": "51.539169,13.408905",
+        "longitude": 13.408835,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "245",
+        "latitude": 51.538046000000001,
+        "longitude": 13.408970999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "247",
+        "latitude": 51.537039999999998,
+        "name": "51.538048,13.409050",
+        "longitude": 13.408744,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "248",
+        "latitude": 51.536793000000003,
+        "longitude": 13.408727000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "250",
+        "latitude": 51.536642999999998,
+        "name": "51.536793,13.408728",
+        "longitude": 13.408792,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "252",
+        "latitude": 51.536102,
+        "name": "51.536643,13.408792",
+        "longitude": 13.408127,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "253",
+        "latitude": 51.535888999999997,
+        "longitude": 13.408427,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "254",
+        "latitude": 51.535805000000003,
+        "longitude": 13.408576999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "255",
+        "latitude": 51.535801999999997,
+        "longitude": 13.408754999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "256",
+        "latitude": 51.535845000000002,
+        "longitude": 13.408942,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "257",
+        "latitude": 51.536248999999998,
+        "longitude": 13.408942,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "258",
+        "latitude": 51.536276000000001,
+        "longitude": 13.409071000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "259",
+        "latitude": 51.536413000000003,
+        "longitude": 13.409065999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "260",
+        "latitude": 51.536563000000001,
+        "longitude": 13.408942,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "261",
+        "latitude": 51.536790000000003,
+        "longitude": 13.409269999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "262",
+        "latitude": 51.537173000000003,
+        "longitude": 13.409687999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "263",
+        "latitude": 51.537337999999998,
+        "longitude": 13.409917,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "265",
+        "latitude": 51.537427000000001,
+        "name": "51.537338,13.409917",
+        "longitude": 13.4102,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "266",
+        "latitude": 51.537557999999997,
+        "longitude": 13.412234,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "267",
+        "latitude": 51.537492,
+        "longitude": 13.413575,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "269",
+        "latitude": 51.537443000000003,
+        "name": "51.537492,13.413575",
+        "longitude": 13.41409,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "270",
+        "latitude": 51.537547000000004,
+        "longitude": 13.414351,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "271",
+        "latitude": 51.538435,
+        "longitude": 13.414605,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": true,
+        "id": "273",
+        "latitude": 51.537587000000002,
+        "name": "Lernort 8",
+        "longitude": 13.414388000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "274",
+        "latitude": 51.537443000000003,
+        "longitude": 13.41409,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "275",
+        "latitude": 51.537382000000001,
+        "longitude": 13.414555,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "277",
+        "latitude": 51.536225999999999,
+        "name": "51.537382,13.414555",
+        "longitude": 13.414832000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "278",
+        "latitude": 51.536152000000001,
+        "longitude": 13.414944999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "279",
+        "latitude": 51.536085999999997,
+        "longitude": 13.415111,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "280",
+        "latitude": 51.536026999999997,
+        "longitude": 13.415571999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "282",
+        "latitude": 51.535991000000003,
+        "name": "51.536027,13.415572",
+        "longitude": 13.419387,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "283",
+        "latitude": 51.536405999999999,
+        "longitude": 13.420959,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "285",
+        "latitude": 51.536538999999998,
+        "name": "51.536406,13.420958",
+        "longitude": 13.421666999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "287",
+        "latitude": 51.538094000000001,
+        "name": "51.536539,13.421667",
+        "longitude": 13.427835999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "289",
+        "latitude": 51.538514999999997,
+        "name": "51.538094,13.427836",
+        "longitude": 13.429853,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "290",
+        "latitude": 51.538642000000003,
+        "longitude": 13.430024,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "291",
+        "latitude": 51.538801999999997,
+        "longitude": 13.430561000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "292",
+        "latitude": 51.538995,
+        "longitude": 13.431430000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "293",
+        "latitude": 51.539048999999999,
+        "longitude": 13.434219000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "294",
+        "latitude": 51.539048999999999,
+        "longitude": 13.439101000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "295",
+        "latitude": 51.539054999999998,
+        "longitude": 13.441397,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "296",
+        "latitude": 51.539048999999999,
+        "longitude": 13.44233,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "298",
+        "latitude": 51.539088999999997,
+        "name": "51.539049,13.442330",
+        "longitude": 13.446515,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "300",
+        "latitude": 51.540396999999999,
+        "name": "51.539089,13.446515",
+        "longitude": 13.447094,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "301",
+        "latitude": 51.54081,
+        "longitude": 13.447244,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "302",
+        "latitude": 51.540996999999997,
+        "longitude": 13.447416,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": true,
+        "id": "304",
+        "latitude": 51.541144000000003,
+        "name": "Lernort 4.2\/9",
+        "longitude": 13.447695,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "305",
+        "latitude": 51.541356999999998,
+        "longitude": 13.448027,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "306",
+        "latitude": 51.541924999999999,
+        "longitude": 13.448886,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "307",
+        "latitude": 51.541871,
+        "longitude": 13.449453999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "308",
+        "latitude": 51.541410999999997,
+        "longitude": 13.450517,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "309",
+        "latitude": 51.541029999999999,
+        "longitude": 13.451482,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "310",
+        "latitude": 51.540790000000001,
+        "longitude": 13.452211999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "311",
+        "latitude": 51.540523,
+        "longitude": 13.453348999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "313",
+        "latitude": 51.540063000000004,
+        "name": "51.540523,13.453349",
+        "longitude": 13.455355000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "315",
+        "latitude": 51.541820000000001,
+        "name": "51.540063,13.455355",
+        "longitude": 13.459784000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "316",
+        "latitude": 51.542076999999999,
+        "longitude": 13.460895000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "318",
+        "latitude": 51.542133,
+        "name": "51.542077,13.460895",
+        "longitude": 13.461567000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "319",
+        "latitude": 51.541887000000003,
+        "longitude": 13.465576,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "320",
+        "latitude": 51.541916999999998,
+        "longitude": 13.467646,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "322",
+        "latitude": 51.541964999999998,
+        "name": "51.541824,13.467650",
+        "longitude": 13.46988,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "324",
+        "latitude": 51.542304999999999,
+        "name": "51.541965,13.469880",
+        "longitude": 13.472021,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "325",
+        "latitude": 51.541455999999997,
+        "longitude": 13.476319999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "326",
+        "latitude": 51.541454000000002,
+        "longitude": 13.476483,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "327",
+        "latitude": 51.541625000000003,
+        "longitude": 13.476601,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "329",
+        "latitude": 51.542147999999997,
+        "name": "51.541625,13.476601",
+        "longitude": 13.476711,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "330",
+        "latitude": 51.543443000000003,
+        "longitude": 13.476613,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "331",
+        "latitude": 51.544406000000002,
+        "longitude": 13.477162999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "332",
+        "latitude": 51.545028000000002,
+        "longitude": 13.477925000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "334",
+        "latitude": 51.545223,
+        "name": "51.545028,13.477925",
+        "longitude": 13.478184000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "335",
+        "latitude": 51.545296,
+        "longitude": 13.478649000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "336",
+        "latitude": 51.545547999999997,
+        "longitude": 13.482927999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "337",
+        "latitude": 51.545673000000001,
+        "longitude": 13.483661,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "338",
+        "latitude": 51.549582000000001,
+        "longitude": 13.492108,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "340",
+        "latitude": 51.551074,
+        "name": "51.549582,13.492108",
+        "longitude": 13.500807999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "341",
+        "latitude": 51.555416999999998,
+        "longitude": 13.509293,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "343",
+        "latitude": 51.560704000000001,
+        "name": "51.555417,13.509293",
+        "longitude": 13.520156999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "344",
+        "latitude": 51.561115000000001,
+        "longitude": 13.521039999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "345",
+        "latitude": 51.561174999999999,
+        "longitude": 13.521419,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "347",
+        "latitude": 51.561225,
+        "name": "51.561175,13.521419",
+        "longitude": 13.521868,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "348",
+        "latitude": 51.561290999999997,
+        "longitude": 13.521526,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "349",
+        "latitude": 51.561453,
+        "longitude": 13.521274,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "350",
+        "latitude": 51.563420000000001,
+        "longitude": 13.520809,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "351",
+        "latitude": 51.567037999999997,
+        "longitude": 13.520981000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "353",
+        "latitude": 51.567224000000003,
+        "name": "51.567038,13.520981",
+        "longitude": 13.520871,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "354",
+        "latitude": 51.567346999999998,
+        "longitude": 13.520432,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "355",
+        "latitude": 51.567532999999997,
+        "longitude": 13.520182999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "356",
+        "latitude": 51.568108000000002,
+        "longitude": 13.520200000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "357",
+        "latitude": 51.568510000000003,
+        "longitude": 13.519867,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "358",
+        "latitude": 51.572791000000002,
+        "longitude": 13.523543999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "359",
+        "latitude": 51.575789,
+        "longitude": 13.524699999999999,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "360",
+        "latitude": 51.577033999999998,
+        "longitude": 13.525542,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "361",
+        "latitude": 51.580052000000002,
+        "longitude": 13.529957,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "362",
+        "latitude": 51.581110000000002,
+        "longitude": 13.531940000000001,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "363",
+        "latitude": 51.581457999999998,
+        "longitude": 13.532422,
+        "triggerDistance": 10
+      },
+      {
+        "isStation": false,
+        "id": "364",
+        "latitude": 51.589005999999998,
+        "name": "51.589006,13.541273",
+        "longitude": 13.541273,
+        "triggerDistance": 10
+      }
+    ],
+    "type": "Bike",
+    "description": "The cycle tour"
+  }
+]
