@@ -375,7 +375,7 @@
         "audios": [
           {
             "name": "Sonne",
-            "url": "https://github.com/rocket-dom/CitytourJSONs/blob/b6c912e870824353ee276c0a28dfe695d1d8657c/audios/demo_audio.m4a",
+            "url": "https://github.com/rocket-dom/CitytourJSONs/raw/main/audios/demo_audio.m4a",
             "duration": 37
           }
         ]
