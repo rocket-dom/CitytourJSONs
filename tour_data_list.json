@@ -26,6 +26,21 @@
         "triggerDistance": 10
       },
       {
+        "isStation": true,
+        "id": "003b",
+        "latitude": 51.576045000000001,
+        "name": "Sonne",
+        "longitude": 13.502827,
+        "triggerDistance": 10,
+        "audios": [
+          {
+            "name": "Sonne",
+            "url": "https://github.com/rocket-dom/CitytourJSONs/raw/main/audios/demo_audio.m4a",
+            "duration": 37
+          }
+        ]
+      },
+      {
         "isStation": false,
         "id": "004",
         "latitude": 51.609223,
