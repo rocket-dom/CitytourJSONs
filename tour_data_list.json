@@ -19,18 +19,11 @@
         "triggerDistance": 10
       },
       {
-        "isStation": false,
+        "isStation": true,
         "id": "003",
         "latitude": 51.609276000000001,
         "longitude": 13.543011999999999,
-        "triggerDistance": 10
-      },
-      {
-        "isStation": true,
-        "id": "003b",
-        "latitude": 51.576045000000001,
         "name": "Sonne",
-        "longitude": 13.502827,
         "triggerDistance": 10,
         "audios": [
           {
