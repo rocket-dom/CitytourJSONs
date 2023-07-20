@@ -69,11 +69,11 @@
           }
         ],
         "imageURLs": [
-            "https://github.com/rocket-dom/CitytourJSONs/blob/main/images/001.jpg",
-            "https://github.com/rocket-dom/CitytourJSONs/blob/main/images/002.jpg",
-            "https://github.com/rocket-dom/CitytourJSONs/blob/main/images/003.jpg",
-            "https://github.com/rocket-dom/CitytourJSONs/blob/main/images/004.jpg",
-            "https://github.com/rocket-dom/CitytourJSONs/blob/main/images/005.jpg"
+            "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/001.jpg",
+            "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/002.jpg",
+            "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/003.jpg",
+            "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/004.jpg",
+            "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/005.jpg"
         ]
       },
       {
