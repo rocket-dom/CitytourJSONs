@@ -23,15 +23,7 @@
         "id": "003",
         "latitude": 51.609276000000001,
         "longitude": 13.543011999999999,
-        "name": "Sonne",
-        "triggerDistance": 10,
-        "audios": [
-          {
-            "name": "Sonne",
-            "url": "https://github.com/rocket-dom/CitytourJSONs/raw/main/audios/demo_audio.m4a",
-            "duration": 37
-          }
-        ]
+        "triggerDistance": 10
       },
       {
         "isStation": false,
@@ -67,7 +59,22 @@
         "id": "009",
         "latitude": 51.609119999999997,
         "longitude": 13.544779999999999,
-        "triggerDistance": 10
+        "triggerDistance": 10,
+        "name": "Sonne",
+        "audios": [
+          {
+            "name": "Sonne",
+            "url": "https://github.com/rocket-dom/CitytourJSONs/raw/main/audios/demo_audio.m4a",
+            "duration": 37
+          }
+        ],
+        "imageURLs": [
+            "https://github.com/rocket-dom/CitytourJSONs/blob/main/images/001.jpg",
+            "https://github.com/rocket-dom/CitytourJSONs/blob/main/images/002.jpg",
+            "https://github.com/rocket-dom/CitytourJSONs/blob/main/images/003.jpg",
+            "https://github.com/rocket-dom/CitytourJSONs/blob/main/images/004.jpg",
+            "https://github.com/rocket-dom/CitytourJSONs/blob/main/images/005.jpg"
+        ]
       },
       {
         "isStation": false,
