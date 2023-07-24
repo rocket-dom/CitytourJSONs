@@ -79,7 +79,15 @@
           {
             "name": "Water level",
             "type": "waterLevel",
-            "maxValue": 130
+            "maxValue": 150
+          },
+          {
+            "name": "Take photo",
+            "type": "takePhoto"
+          },
+          {
+            "name": "Water quality",
+            "type": "nitrate"
           }
         ]
       },
