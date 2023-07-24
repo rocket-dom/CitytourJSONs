@@ -74,6 +74,13 @@
             "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/003.jpg",
             "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/004.jpg",
             "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/005.jpg"
+        ],
+        "citizenScience": [
+          {
+            "name": "Water level",
+            "type": "waterLevel",
+            "maxValue": 130
+          }
         ]
       },
       {
