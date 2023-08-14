@@ -1,7 +1,101 @@
 [
   {
+    "id": "test_tour",
+    "title": "Test Tour",
+    "type": "foot",
+    "description": "Just a demo",
+    "duration": "20 - 30 min",
+    "distance": "1,2 km",
+    "pointsOnMap": [
+      {
+        "isStation": true,
+        "id": "d01",
+        "name": "Erste Station",
+        "triggerDistance": 10,
+        "latitude": 51.244709,
+        "longitude": 6.780095
+      },
+      {
+        "isStation": false,
+        "id": "d02",
+        "triggerDistance": 10,
+        "latitude": 51.243923,
+        "longitude": 6.777585
+      },
+      {
+        "isStation": true,
+        "id": "d03",
+        "name": "Zweite Station",
+        "triggerDistance": 10,
+        "latitude": 51.244575,
+        "longitude": 6.776994,
+        "description": "Die Sonne ist der Stern, der der Erde am nächsten ist und das Zentrum des Sonnensystems bildet. Sie ist ein durchschnittlich großer Stern im äußeren Drittel der Milchstraße. Die Sonne ist ein Zwergstern (Gelber Zwerg), der sich im Entwicklungsstadium der Hauptreihe befindet. Sie enthält 99,86 % der Masse, jedoch nur ca. 0,5 % des Drehimpulses des Sonnensystems. Ihr Durchmesser ist mit 1,4 Millionen Kilometern etwa 110-mal so groß wie der der Erde. Die Oberfläche der Sonne zeigt eine wechselnde Zahl von Sonnenflecken, die in Zusammenhang mit starken Magnetfeldern stehen. Sie werden neben weiteren Phänomenen als Sonnenaktivität bezeichnet.",
+        "imageURLs": [
+          "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/001.jpg",
+          "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/002.jpg",
+          "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/003.jpg",
+          "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/004.jpg",
+          "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/005.jpg"
+        ],
+        "citizenScience": [
+          {
+            "name": "Water level",
+            "type": "waterLevel",
+            "maxValue": 150
+          },
+          {
+            "name": "Take photo",
+            "type": "takePhoto"
+          },
+          {
+            "name": "Water quality",
+            "type": "nitrate"
+          }
+        ]
+      },
+      {
+        "isStation": false,
+        "id": "d04",
+        "triggerDistance": 10,
+        "latitude": 51.243997,
+        "longitude": 6.775181
+      },
+      {
+        "isStation": false,
+        "id": "d05",
+        "triggerDistance": 10,
+        "latitude": 51.243338,
+        "longitude": 6.775687
+      },
+      {
+        "isStation": true,
+        "id": "d06",
+        "name": "Dritte Station",
+        "triggerDistance": 10,
+        "latitude": 51.242452,
+        "longitude": 6.773337
+      },
+      {
+        "isStation": false,
+        "id": "d07",
+        "triggerDistance": 10,
+        "latitude": 51.241397,
+        "longitude": 6.774185
+      },
+      {
+        "isStation": false,
+        "id": "d08",
+        "triggerDistance": 10,
+        "latitude": 51.243615,
+        "longitude": 6.780956
+      }
+    ]
+  },
+  {
     "id": "cycle_tour",
     "title": "Cycle Tour",
+    "duration": "120 - 200 min",
+    "distance": "14 km",
     "pointsOnMap": [
       {
         "isStation": true,
@@ -55,47 +149,11 @@
         "triggerDistance": 10
       },
       {
-        "isStation": true,
+        "isStation": false,
         "id": "009",
         "latitude": 51.609119999999997,
         "longitude": 13.544779999999999,
-        "triggerDistance": 10,
-        "name": "Sonne",
-        "description": "Die Sonne ist der Stern, der der Erde am nächsten ist und das Zentrum des Sonnensystems bildet. Sie ist ein durchschnittlich großer Stern im äußeren Drittel der Milchstraße. Die Sonne ist ein Zwergstern (Gelber Zwerg), der sich im Entwicklungsstadium der Hauptreihe befindet. Sie enthält 99,86 % der Masse, jedoch nur ca. 0,5 % des Drehimpulses des Sonnensystems. Ihr Durchmesser ist mit 1,4 Millionen Kilometern etwa 110-mal so groß wie der der Erde. Die Oberfläche der Sonne zeigt eine wechselnde Zahl von Sonnenflecken, die in Zusammenhang mit starken Magnetfeldern stehen. Sie werden neben weiteren Phänomenen als Sonnenaktivität bezeichnet.",
-        "audios": [
-          {
-            "name": "Sonne",
-            "url": "https://github.com/rocket-dom/CitytourJSONs/raw/main/audios/sonne.m4a",
-            "duration": 37
-          },
-          {
-            "name": "Comodovaran",
-            "url": "https://github.com/rocket-dom/CitytourJSONs/raw/main/audios/comodovaran.m4a",
-            "duration": 61
-          }
-        ],
-        "imageURLs": [
-            "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/001.jpg",
-            "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/002.jpg",
-            "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/003.jpg",
-            "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/004.jpg",
-            "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/005.jpg"
-        ],
-        "citizenScience": [
-          {
-            "name": "Water level",
-            "type": "waterLevel",
-            "maxValue": 150
-          },
-          {
-            "name": "Take photo",
-            "type": "takePhoto"
-          },
-          {
-            "name": "Water quality",
-            "type": "nitrate"
-          }
-        ]
+        "triggerDistance": 10
       },
       {
         "isStation": false,
@@ -405,16 +463,9 @@
         "isStation": true,
         "id": "063",
         "latitude": 51.576045000000001,
-        "name": "Sonne",
+        "name": "Lernort",
         "longitude": 13.502827,
-        "triggerDistance": 10,
-        "audios": [
-          {
-            "name": "Sonne",
-            "url": "https://github.com/rocket-dom/CitytourJSONs/raw/main/audios/demo_audio.m4a",
-            "duration": 37
-          }
-        ]
+        "triggerDistance": 10
       },
       {
         "isStation": false,
@@ -2147,7 +2198,7 @@
         "triggerDistance": 10
       }
     ],
-    "type": "Bike",
+    "type": "bike",
     "description": "The cycle tour"
   }
 ]
