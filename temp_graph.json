@@ -1,0 +1,68 @@
+[
+  {
+    "month": "Aug",
+    "value": 18,
+    "min": 16,
+    "max": 20
+  },
+  {
+    "month": "Sep",
+    "value": 14,
+    "min": 10,
+    "max": 16
+  },
+  {
+    "month": "Nov",
+    "value": 10,
+    "min": 9,
+    "max": 12
+  },
+  {
+    "month": "Dec",
+    "value": 9,
+    "min": 5,
+    "max": 10
+  },
+  {
+    "month": "Jan",
+    "value": 3,
+    "min": 0,
+    "max": 6
+  },
+  {
+    "month": "Feb",
+    "value": 4,
+    "min": 2,
+    "max": 8
+  },
+  {
+    "month": "Mar",
+    "value": 9,
+    "min": 7,
+    "max": 13
+  },
+  {
+    "month": "April",
+    "value": 15,
+    "min": 11,
+    "max": 18
+  },
+  {
+    "month": "May",
+    "value": 22,
+    "min": 17,
+    "max": 24
+  },
+  {
+    "month": "Jun",
+    "value": 21,
+    "min": 18,
+    "max": 26
+  },
+  {
+    "month": "Jul",
+    "value": 23,
+    "min": 20,
+    "max": 26
+  }
+]

@@ -38,6 +38,9 @@
             "urls": [],
             "beforeImgURL": "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/historic.jpg",
             "afterImgURL": "https://github.com/rocket-dom/CitytourJSONs/raw/main/images/current.jpg"
+          },
+          {
+            "type": "tempGraph"
           }
         ]
       },
