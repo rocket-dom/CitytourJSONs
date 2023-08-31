@@ -32,7 +32,7 @@
             "type": "dataComparison"
           }
         ],
-        "discovery": [
+        "discoveries": [
           {
             "type": "beforeAfter",
             "urls": [],
